@@ -1,4 +1,4 @@
-# Reservas_hoteleras (En construcción)
+# Reservas hoteleras (En construcción)
 
 
 ## Descripción de la temática de datos
@@ -13,7 +13,7 @@ Se hará un análisis de datos de tipo descriptivo. Se estudiará la estacionali
 
 ## Usuario final y nivel de aplicación del análisis
 
-El tablero se encuentra orientado a ser utilizado a nivel táctico. En él se puede encontrar, entre otras cosas, el número y tipo de reservas - canceladas y efectivas -, el tipo de cliente, la tarifa diaria y un mapa interactivo del país de origen de las reservas. Dichos datos se pueden segmentar por nombre de hotel, año, mes y tipo de cliente. De forma que los mandos medios o líderes de la administración de los hoteles puedan decidir sobre las preguntas planteadas en las hipótesis.
+El tablero se encuentra orientado a ser utilizado a nivel táctico. En él se puede encontrar, entre otras cosas, el número y tipo de reservas - canceladas y efectivas -, el tipo de cliente, la tarifa diaria y un mapa interactivo del país de origen de las reservas. Dichos datos se pueden segmentar por nombre de hotel, año, mes y tipo de cliente; de forma que los mandos medios o líderes de la administración de los hoteles puedan decidir sobre las preguntas planteadas en las hipótesis.
 
 ## Dataset utilizado
 
