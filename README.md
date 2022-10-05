@@ -3,7 +3,7 @@
 
 ## Descripción de la temática de datos
 
-El trabajo se basa en datos recolectados de reservas para un hotel de la ciudad y un complejo turístico entre el primero de julio de 2015 y el 31 de agosto de 2017. La información incluye si cada reserva fue tomada o cancelada, el número de personas, el número de adultos y chicos, la cantidad de noches en días de semana y la cantidad de noches en fines de semana.
+El trabajo se basa en datos recolectados de reservas para un hotel de una ciudad y para un complejo turístico, entre el primero de julio de 2015 y el 31 de agosto de 2017. La información incluye si cada reserva fue tomada o cancelada, el número de personas, el número de adultos y chicos, la cantidad de noches en días de semana y la cantidad de noches en fines de semana.
 
 Puesto que el dataset está basado en datos reales, por cuestiones de privacidad y seguridad los campos asociados a nombre, número de teléfono, email y tarjeta de crédito fueron reemplazados por datos ficticios.
 
