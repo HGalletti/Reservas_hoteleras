@@ -28,4 +28,4 @@ https://docs.google.com/document/d/1FNutMuwN6KnxBAyZHr1iwCjC61oEir0f/edit?usp=sh
 
 ## Link al tablero de Power BI
 
-https://app.powerbi.com/reportEmbed?reportId=6bfdf6c1-ecfa-4767-8e43-ea425c290a6a&autoAuth=true&ctid=1ad86374-09ae-40c1-8eef-662b207a93ff
+https://app.powerbi.com/view?r=eyJrIjoiN2RmZjI2MWQtZjAzYS00MmFmLWE5NmMtMTQxNWE0MDViZDhjIiwidCI6IjFhZDg2Mzc0LTA5YWUtNDBjMS04ZWVmLTY2MmIyMDdhOTNmZiJ9
