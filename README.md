@@ -25,6 +25,6 @@ https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 https://docs.google.com/document/d/1T052GFWzRFAt35UpSnOSOFxVwb_Kf2wQP1nYL1HhCY0/edit?usp=sharing
 
-## Tablero de Power BI
+## Link al tablero de Power BI
 
-<iframe title="Analisis de reservas hoteleras" width="0" height="0" src="https://app.powerbi.com/view?r=eyJrIjoiYmJhYjYxYmMtOTA4MS00ZjU5LWFjYTItMWU2YWUzYjIzNDQzIiwidCI6IjFhZDg2Mzc0LTA5YWUtNDBjMS04ZWVmLTY2MmIyMDdhOTNmZiJ9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/reportEmbed?reportId=6bfdf6c1-ecfa-4767-8e43-ea425c290a6a&autoAuth=true&ctid=1ad86374-09ae-40c1-8eef-662b207a93ff
