@@ -1,11 +1,12 @@
-# Reservas hoteleras (En construcción)
+# Reservas hoteleras
 
 
-## Descripción de la temática de datos
+##Introducción
 
-El trabajo se basa en datos recolectados de reservas para un hotel de una ciudad y para un complejo turístico, entre el primero de julio de 2015 y el 31 de agosto de 2017. La información incluye si cada reserva fue tomada o cancelada, el número de personas, el número de adultos y chicos, la cantidad de noches en días de semana y la cantidad de noches en fines de semana.
+Debido a la gran demanda de servicios y al aumento de la competencia en el rubro, las empresas hoteleras buscan disponer de diferentes instrumentos que le sean útiles para controlar eficiencia, calidad y que propicien un ámbito de visibilidad para las distintas actividades que se realizan a la hora de toma de decisiones o de ofrecer un servicio, recurriendo así a los distintos tipos de análisis de datos, para tener una teoría en la cual basarse al momento de efectivizar los cambios. 
+ 
+En este proyecto se toma la decisión de enfocarse en el análisis de datos de tipo descriptivo, para poder así incurrir y analizar los distintos indicadores de gestión hotelera y poder brindar el mejor servicio a sus clientes.
 
-Puesto que el dataset está basado en datos reales, por cuestiones de privacidad y seguridad los campos asociados a nombre, número de teléfono, email y tarjeta de crédito fueron reemplazados por datos ficticios.
 
 ## Hipótesis y tipo de análisis de datos
 
@@ -23,7 +24,7 @@ https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 ### La documentación completa puede verse en:
 
-https://docs.google.com/document/d/1T052GFWzRFAt35UpSnOSOFxVwb_Kf2wQP1nYL1HhCY0/edit?usp=sharing
+https://docs.google.com/document/d/1FNutMuwN6KnxBAyZHr1iwCjC61oEir0f/edit?usp=sharing&ouid=104782635489927276725&rtpof=true&sd=true
 
 ## Link al tablero de Power BI
 
