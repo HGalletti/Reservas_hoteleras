@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 ### La documentación completa puede verse en:
 
-https://docs.google.com/document/d/1FNutMuwN6KnxBAyZHr1iwCjC61oEir0f/edit?usp=sharing&ouid=104782635489927276725&rtpof=true&sd=true
+https://drive.google.com/file/d/1VgIqxTaI-WpJsHi3qIG6doifjTWn4Pbf/view?usp=sharing
 
 ## Link al tablero de Power BI
 
