@@ -1,7 +1,7 @@
 # Reservas hoteleras
 
 
-##Introducción
+## Introducción
 
 Debido a la gran demanda de servicios y al aumento de la competencia en el rubro, las empresas hoteleras buscan disponer de diferentes instrumentos que le sean útiles para controlar eficiencia, calidad y que propicien un ámbito de visibilidad para las distintas actividades que se realizan a la hora de toma de decisiones o de ofrecer un servicio, recurriendo así a los distintos tipos de análisis de datos, para tener una teoría en la cual basarse al momento de efectivizar los cambios. 
  
