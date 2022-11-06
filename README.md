@@ -51,7 +51,7 @@ El archivo del dataset fue descargado de la plataforma Kaggle:
 
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
-### La documentación completa puede verse en:
+## La documentación completa puede verse en:
 
 https://drive.google.com/file/d/1VgIqxTaI-WpJsHi3qIG6doifjTWn4Pbf/view?usp=sharing
 
