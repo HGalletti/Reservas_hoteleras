@@ -51,9 +51,9 @@ El archivo del dataset fue descargado de la plataforma Kaggle:
 
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
-## Link al tablero de Power BI
+## Tablero de Power BI
 
-https://app.powerbi.com/view?r=eyJrIjoiN2RmZjI2MWQtZjAzYS00MmFmLWE5NmMtMTQxNWE0MDViZDhjIiwidCI6IjFhZDg2Mzc0LTA5YWUtNDBjMS04ZWVmLTY2MmIyMDdhOTNmZiJ9
+https://drive.google.com/file/d/1xo4DL5eFtFAAAcHh_8p88NWQzAp4KL2C/view?usp=sharing
 
 ## La documentación completa puede verse en:
 
